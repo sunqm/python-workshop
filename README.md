@@ -58,3 +58,15 @@ The course will give students an introduction to the programming language Python
   * - in `__del__`
 * Concept of Concurrency & parallelism./Coroutines/ yield
 
+
+# Prerequisite
+## Install VirtualBox
+* Students using Windows operating systems are strongly recommended to install VirtualBox in order to use a unix-like environment. 
+* Students using MacOS can optionally use VirtualBox. But it's also fine to use the native OSX environment.
+* [Instructions to set up Ubuntu with VirtualBox](docs/virtualbox.md) 
+
+## Install Miniconda
+* [Instructions to install and setup conda](docs/conda.md)
+
+## Install Jupyter Notebook
+* [Instructions to install Jupyter notebook](docs/jupyter.md)
