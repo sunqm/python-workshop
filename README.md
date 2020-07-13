@@ -16,15 +16,17 @@ The course will give students an introduction to the programming language Python
 ## Session 1
 * Introduction to Python. History and current status. Comparison against other languages.
 * Virtualbox. Installation and Python environment setup (homework). Introduction to Jupyter notebook.
-* Package management. Pip & Conda. Virtualenv. 
-* Python refresher: built-in data types, flow control, built-in functions, basic OOP, etc.
-* Functions. Arguments. Scope. Annotations.
-* Class. Static/class data and methods. Inheritance. Abstract base classes. 
+* Install packages.  
+* Built-in data types. Sequences, dictionaries and sets. 
+* Functions. Arguments. Anonymous functions. Annotations.
+* Closure and decorator. Scope rules. 
 
 ## Session 2
-* Pythonic programming: Unpacking. List comprehensions. Lambda functions. Generator/Iterator. Context manager. Decorators. String formatting. 
+* Class. Static/class data and methods. Inheritance. Abstract base classes. 
+* Context manager. 
+* Project structure. Using IDE.
+* Import mechanism.
 * Quality assurance with unit testing. PEP8. Pylint. 
-* Python project structure and import mechanism. 
 
 ## Session 3
 * Introduction to Numpy. What is vectorization, compared to the regular python loop. Vector-oriented programming
@@ -70,3 +72,10 @@ The course will give students an introduction to the programming language Python
 
 ## Install Jupyter Notebook
 * [Instructions to install Jupyter notebook](docs/jupyter.md)
+
+## Set up Github and learn git
+* Create a Github account.
+* Create a Github repository with name "baruch-mfe-python-summer". 
+Follow the instructions [here](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) to create a repository.
+* Learn to use basic git command. Try to clone the repo to your computer and push some changes to remote. 
+Here is a good tutorial: https://medium.com/@seancoyne/learn-git-in-15-minutes-17cecc142652

@@ -2,8 +2,17 @@
 Make sure you have installed conda and activated the Python3.7 environment before proceeding.
 
 ## Install Jupyter
+Install Jupyter and extensions
 ```
-pip install jupyter
+pip install jupyter jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+```
+Enable some useful extensions
+```bash
+jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable freeze/main
+jupyter nbextension enable table_beautifier/main
+jupyter nbextension enable toc2/main
 ```
 
 ## Generate Jupyter configuration file
