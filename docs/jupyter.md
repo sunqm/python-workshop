@@ -40,33 +40,6 @@ c.NotebookApp.open_browser = False
 c.NotebookApp.allow_remote_access = True
 ```
 
-## Configure key mapping
-```bash
-mkdir -p ~/.jupyter/nbconfig/
-```
-Open `~/.jupyter/nbconfig/notebook.json` and add the following content
-```json
-{
-  "command": {
-    "unbind": [
-      "ctrl-enter"
-    ],
-    "bind": {
-      "cmd-enter": "jupyter-notebook:run-cell"
-    }
-  },
-  "edit": {
-    "unbind": [
-      "ctrl-enter"
-    ],
-    "bind": {
-      "cmd-enter": "jupyter-notebook:run-cell"
-    }
-  }
-}
-```
-Save and exit.
-
 ## Start Jupyter
 Now you can start Jupyter notebook by typing
 ```bash
