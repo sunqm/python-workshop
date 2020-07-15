@@ -61,7 +61,7 @@ The course will give students an introduction to the programming language Python
 * Concept of Concurrency & parallelism./Coroutines/ yield
 
 
-# Prerequisite
+# Environment setup
 ## Install VirtualBox
 * Students using Windows operating systems are strongly recommended to install VirtualBox in order to use a unix-like environment. 
 * Students using MacOS can optionally use VirtualBox. But it's also fine to use the native OSX environment.
