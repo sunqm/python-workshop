@@ -12,7 +12,7 @@ Students are expected to go through the following chapters of the official Pytho
 # Content
 The course will give students an introduction to the programming language Python and some important libraries widely used in the financial industry. It will start with topics including Python environment setup, package management softwares, and core language features. It then will provide some in-depth tutorials to help students learn how to manipulate data with Numpy and Pandas, and visualize data with libraries such as Matplotlib. An real-world example will be used to illustrate how these tools can be used together in cleaning data. It will also cover advanced topics such as performance profiling/optimization, garbage collection/reference counting, JIT compiler, etc. After this course, we expect students to get comfortable with coding in Python for both general purpose and for exploratory data analysis. Students will be more prepared for later courses during the MFE program such as machine learning. We will be using Python 3.7 throughout this course although more recent versions have been released.
 
-
+ 
 ## Session 1
 * Introduction to Python. History and current status. Comparison against other languages.
 * Virtualbox. Installation and Python environment setup (homework). Introduction to Jupyter notebook.
@@ -24,6 +24,7 @@ The course will give students an introduction to the programming language Python
 ## Session 2
 * Class. Static/class data and methods. Inheritance. Abstract base classes. 
 * Context manager. 
+* Iterators and generators.
 * Project structure. Using IDE.
 * Import mechanism.
 * Quality assurance with unit testing. PEP8. Pylint. 
@@ -79,3 +80,9 @@ The course will give students an introduction to the programming language Python
 Follow the instructions [here](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) to create a repository.
 * Learn to use basic git command. Try to clone the repo to your computer and push some changes to remote. 
 Here is a good tutorial: https://medium.com/@seancoyne/learn-git-in-15-minutes-17cecc142652
+
+# Books
+* *Think Python*: The most basic of this list, Think Python provides a comprehensive Python reference.
+* *Fluent Python*: While Python’s simplicity lets you quickly start coding, this book teaches you how to write idiomatic Python code, while going into several deep topics of the language.
+* *Effective Python*: 59 Ways to Write Better Python: This relatively short book is a collection of 59 articles that, similarly to Fluent Python, focus on teaching you how to write truly Pythonic code.
+* *Python Cookbook*: As a cookbook, this will be a good reference on how to use Python to complete tasks you have done in another language.
