@@ -16,7 +16,7 @@ The course will give students an introduction to the programming language Python
 ## Session 1
 * Introduction to Python. History and current status. Comparison against other languages.
 * Virtualbox. Installation and Python environment setup (homework). Introduction to Jupyter notebook.
-* Install packages.  
+* Install packages.
 * Built-in data types. Sequences, dictionaries and sets. 
 * Functions. Arguments. Anonymous functions. Annotations.
 * Closure and decorator. Scope rules. 
