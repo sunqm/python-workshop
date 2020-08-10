@@ -1,6 +1,6 @@
 1. Read the code below and rewrite it using only numpy functions (without for loop,
 if-else statements). Benchmark your implementation. How much is it faster than
-the naive python implementation? (hint: use np.isin)
+the naive python implementation?
 
 ```
 def func1(names, db):
